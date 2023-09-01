@@ -54,5 +54,4 @@ while(bigWaltuh.hp > 1 && boiGuy.hp > 1)
 }
 Console.WriteLine("y wn cngrts!!!!");
 
-
 Console.ReadLine();
