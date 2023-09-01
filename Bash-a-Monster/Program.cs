@@ -52,7 +52,7 @@ while(bigWaltuh.hp > 1 && boiGuy.hp > 1)
         }
     }
 }
-Console.ReadLine("y wn cngrts!!!!");
+Console.WriteLine("y wn cngrts!!!!");
 
 
 Console.ReadLine();
